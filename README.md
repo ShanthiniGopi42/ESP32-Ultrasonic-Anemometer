@@ -82,3 +82,25 @@ Schematic design, PCB layout, and Gerber file generation have been completed. PC
 **Shanthini G**
 
 Electronics and Communication Engineering
+
+## Project Files
+
+### 1. Firmware
+- [ESP32-S3 Arduino Firmware](Ultrasonic_anemometer.ino)
+
+### 2. KiCad Design Files
+- [PCB Layout](Kicad%20Design/Kicad%20PCB%20Design/Main.kicad_pcb)
+- [Schematic](Kicad%20Design/Kicad%20Schematic/Main.kicad_sch)
+- [KiCad Project File](Kicad%20Design/Kicad%20Project/Main.kicad_pro)
+
+### 3. PCB Fabrication Files
+- [Gerber Files Folder](Gerber%20Files/)
+
+### 4. Design Images
+- [3D PCB Layout](Images/3D%20PCB%20Layout.png)
+- [PCB Layout](Images/PCB%20Layout.png)
+- [Schematic Layout](Images/Schematic%20Layout.png)
+- [Gerber View](Images/Gerber%20View.png)
+
+### 5. Project Report
+- [Ultrasonic Anemometer Report](Report/)
